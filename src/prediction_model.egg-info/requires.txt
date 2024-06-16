@@ -1,0 +1,12 @@
+numpy
+pandas
+joblib
+scikit-learn
+scipy
+pytest
+setuptools
+wheel
+fastapi
+pydantic
+uvicorn
+gunicorn
